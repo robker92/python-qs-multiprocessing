@@ -1,4 +1,4 @@
-# SortingAlgorithm
+# Quick Sort - comparison between single and multiple processing
 
 Implementation of the Quick Sort Algorithm using a single python and multiple processes.
 
